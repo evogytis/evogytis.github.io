@@ -81,7 +81,7 @@ author:
   name             : ""
   avatar           : "profile.png"
   bio              : "Evolutionary biologist by training, a rogue by nature. Broad interests in (-ssRNA) virus evolution as seen through the lens of (Bayesian) phylogenetics."
-  location         : "Vilnius, Lithuania"
+  location         : "Gothenburg, Sweden"
   employer         :
   googlescholar    : "http://scholar.google.co.uk/citations?user=nwiME18AAAAJ&hl=en"
   email            :
@@ -272,7 +272,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Vilnius # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
