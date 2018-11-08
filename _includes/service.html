@@ -3,3 +3,49 @@
 <img class="donateBtnSampleLogo" src="https://static.paysera.com/assets/image/donate-button/paysera-sign-v1.png">
 <span class="donateBtnSampleText">Pay</span>
 </a>
+
+<script src="{{ base_path }}/assets/js/app.min.js"></script>
+
+<button id="payNow" type="button">Card Payment Demo</button>
+
+
+<script>
+    var checkoutApp = new PayseraCheckout.App();
+    checkoutApp.on(PayseraCheckout.AppEvent.SUCCESS, function () {
+        // happens after successful payment, when window is closed
+    });
+
+    checkoutApp.on(PayseraCheckout.AppEvent.ERROR, function (message) {
+           // happens after unsuccessful payment when window is closed or when buyer closes window.
+        switch (message.code) {
+            case PayseraCheckout.ErrorCode.USER_CLOSED:
+                // buyer closed window
+                break;
+
+            case PayseraCheckout.ErrorCode.CARD_INITIAL_RESULT_FAILED:
+                // failed to get payment configuration
+                break;
+
+            case PayseraCheckout.ErrorCode.CARD_AUTHORIZATION_FAILED:
+                // failed to authorize card
+                break;
+
+            case PayseraCheckout.ErrorCode.CARD_RESULT_FAILED:
+                // wrong payment status after card authorization/3D secure
+                break;
+
+            case PayseraCheckout.ErrorCode.CARD_SIGNATURE_FAILED:
+                // failed to perform 3D secure step
+                break;
+        }
+    });
+
+	// Button click event
+    var payButton = document.getElementById('payNow');
+    payButton.addEventListener('click', function () {
+        checkoutApp.pay({
+            data: 'cHJvamVjdGlkPTEyNTExMSZvcmRlcmlkPTAmYW1vdW50PSZjdXJyZW5jeT1VU0QmcGF5bWVudD1jYXJkJmZyYW1lPTAmYWNjZXB0dXJsPWh0dHBzJTNBJTJGJTJGZXZvZ3l0aXMuZ2l0aHViLmlvJTJGYWNjZXB0JTJGJmNhbmNlbHVybD1odHRwcyUzQSUyRiUyRmV2b2d5dGlzLmdpdGh1Yi5pbyUyRmNhbmNlbCUyRiZjYWxsYmFja3VybD1odHRwcyUzQSUyRiUyRmV2b2d5dGlzLmdpdGh1Yi5pbyUyRmNhbGxiYWNrJTJGJnRlc3Q9MCZ2ZXJzaW9uPTEuNg==', // generated data
+            sign: '9b1882f276c423ba38c6c725afedfd63' // generated sign
+        });
+    });
+</script>
