@@ -9,6 +9,7 @@ citation: 'Dellicour S, Baele G, <b>Dudas G</b>, Faria NR, Pybus OG, Suchard MA,
 doi: 10.1038/s41467-018-03763-2
 tags:
   - Ebola virus
+  - phylogeography
 ---
 
 

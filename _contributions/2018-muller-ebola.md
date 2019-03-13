@@ -10,6 +10,8 @@ doi: 10.1101/342329
 tags:
   - Ebola virus
   - genomic epidemiology
+  - phylogeography
+  - methods
 ---
 
 
