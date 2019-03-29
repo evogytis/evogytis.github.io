@@ -1,7 +1,7 @@
 ---
 title: 'The animation that changed all'
-date: 2018-10-10
-permalink: /posts/2018/10/animation/
+date: 2019-03-29
+permalink: /posts/2019/03/animation/
 tags:
   - data visualisation
   - phylogeography
