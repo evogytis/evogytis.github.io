@@ -71,8 +71,8 @@ var addressPoints = [
   ], 
   [
     "Edinburgh, UK", 
-    55.953346, 
-    -3.1883739
+    55.9521476, 
+    -3.1889908
   ], 
   [
     "Glasgow, UK", 
@@ -111,7 +111,7 @@ var addressPoints = [
   ], 
   [
     "Zurich, Switzerland", 
-    47.3769434, 
-    8.5414061
+    47.3723941, 
+    8.5423328
   ]
 ];

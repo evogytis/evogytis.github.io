@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version of my CV available [here](http://evogytis.github.io/files/gd_cv.pdf).
 
 Postgraduate career
 ======
