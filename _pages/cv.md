@@ -14,6 +14,7 @@ PDF version of my CV available [here](http://evogytis.github.io/files/gd_cv.pdf)
 Postgraduate career
 ======
 
+* 2020- Consultant, Ring Therapeutics
 * 2018- Consultant, The Scripps Research Institute
 * 2018- Consultant, BioHub
 * 2016-2018 Mahan Postdoctoral Fellowship, Fred Hutchinson Cancer Research Center, Seattle, WA, USA
@@ -59,7 +60,7 @@ Teaching
 Professional service
 ======
 
-* _Ad hoc_ referee for BMC Bioinformatics, Nature Communications, PLoS Currents Outbreaks, eLife, PLoS Neglected Tropical Diseases, Molecular Biology and Evolution, Molecular Epidemiology and Evolutionary Genetics of Infectious Diseases, PLoS Pathogens, PeerJ, Proceedings of the Royal Society B, Scientific Reports, Virology Journal, Virus Evolution.
+* _Ad hoc_ referee for BMC Bioinformatics, Nature Communications, Nature Medicine, Nature Microbiology, PLoS Currents Outbreaks, eLife, PLoS Neglected Tropical Diseases, Molecular Biology and Evolution, Molecular Epidemiology and Evolutionary Genetics of Infectious Diseases, PLoS Pathogens, PeerJ, Proceedings of the Royal Society B, Scientific Reports, Virology Journal, Virus Evolution.
 * Social media manager for Virus Evolution.
 
 Awards
