@@ -6,8 +6,8 @@ var addressPoints = [
   ], 
   [
     "Flagstaff, Arizona", 
-    35.199458, 
-    -111.6514259
+    35.1987522, 
+    -111.6518229
   ], 
   [
     "Cambridge, Massachusetts", 
@@ -16,8 +16,8 @@ var addressPoints = [
   ], 
   [
     "Phoenix, Arizona", 
-    33.4485866, 
-    -112.0773456
+    33.4484367, 
+    -112.0741417
   ], 
   [
     "San Diego, California", 
@@ -71,13 +71,13 @@ var addressPoints = [
   ], 
   [
     "Edinburgh, UK", 
-    55.9521476, 
-    -3.1889908
+    55.9533456, 
+    -3.1883749
   ], 
   [
     "Glasgow, UK", 
-    55.8611389, 
-    -4.2501672
+    55.8609825, 
+    -4.2488787
   ], 
   [
     "Oxford, UK", 
@@ -86,8 +86,8 @@ var addressPoints = [
   ], 
   [
     "Tucson, Arizona", 
-    32.2218917, 
-    -110.9262353
+    32.2228765, 
+    -110.9748477
   ], 
   [
     "London, UK", 
@@ -96,8 +96,8 @@ var addressPoints = [
   ], 
   [
     "Amsterdam, Netherlands", 
-    52.3745403, 
-    4.89797550561798
+    52.37454030000001, 
+    4.897975505617977
   ], 
   [
     "Atlanta, Georgia", 
