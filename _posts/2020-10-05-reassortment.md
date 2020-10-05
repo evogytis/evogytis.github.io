@@ -1,5 +1,5 @@
 ---
-title: 'Reassortment networks and why I think they're cool'
+title: "Reassortment networks and why I think they're cool"
 date: 2020-10-05
 permalink: /posts/2020/10/reassortment/
 tags:
