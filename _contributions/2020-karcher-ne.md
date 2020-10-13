@@ -1,14 +1,15 @@
 ---
 title: "Estimating effective population size changes from preferentially sampled genetic sequences"
 collection: contributions
-permalink: /contributions/2019-karcher-ne
-date: 2019-03-28
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/1903.11797'
-citation: 'Karcher MD, Suchard MA, <b>Dudas G</b>, Minin VN., 2019. &quot;Estimating effective population size changes from preferentially sampled genetic sequences&quot;. <i>arXiv</i>:1903.11797.'
-doi: arxiv/1108.2455
+permalink: /contributions/2020-karcher-ne
+date: 2020-10-12
+venue: 'PLoS Computation Biology'
+paperurl: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007774'
+citation: 'Karcher MD, Carvalho MC, Suchard MA, <b>Dudas G</b>, Minin VN., 2020. &quot;Estimating effective population size changes from preferentially sampled genetic sequences&quot;. <i>PLoS Comput Biol</i>16(10): e1007774.'
+doi: 10.1371/journal.pcbi.1007774
 tags:
   - Ebola virus
+  - influenza virus
   - methods
 ---
 
