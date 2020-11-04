@@ -8,9 +8,14 @@ redirect_from:
 
 Welcome to my site.
 My name is Gytis Dudas and I'm a scientist who works on viruses.
-I employ [Bayesian phylogenetics](http://beast.community/index.html) to study population structure in RNA viruses and how it can be used to understand their patterns of transmission and evolution.
-I have worked on a diverse set of viruses in the past, including influenza B, MERS corona-, Zika, and Ebola viruses.
-You may know me from my work on the latter.
+My interests very broadly cover the evolution and ecology of viruses and inferring patterns of virus dispersal and transmission that reflect host movements and contact networks.
+I have worked with diverse human viruses in the past with influenza B, MERS corona-, Zika, and Ebola viruses being the more widely known, though I also thoroughly enjoy rummaging through animal metagenomic datasets for new viruses.
+Whenever possible I employ state-of-the-art [Bayesian phylogenetic](http://beast.community/index.html) models and make liberal use of customised data visualisation techniques to present my work.
+Here are a couple of examples of data visualisations I've made:
+
+***
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/knxq4u4hu78"></iframe>
+***
 
 ***
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/j4Ut4krp8GQ"></iframe>
@@ -56,7 +61,7 @@ You can have a look at an analysis of what films my friends and I have shown at 
 One of my proudest achievements in Edinburgh has been the discovery of [Die Hard Dracula](http://www.imdb.com/title/tt0162930/).
 
 ### Data-vis
-As a user of matplotlib I love data visualisation.
+As a [user of matplotlib](https://twitter.com/SciPyConf/status/1019954110815227910) I love data visualisation.
 Data are easy to display, but often difficult to display in a way that is both accurate and is interpreted correctly by the reader.
 Aesthetics are also often overlooked when designing figures.
 There might be brave souls out there who can calmly look at magenta comic-sans axis labels, but I'm not one of them.
