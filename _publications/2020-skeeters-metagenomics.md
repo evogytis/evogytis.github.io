@@ -1,11 +1,11 @@
 ---
-title: "Single mosquito metatranscriptomics recovers mosquito species, blood meal sources, and microbial cargo, including viral dark matter"
+title: "Single mosquito metatranscriptomics identifies vectors, emerging pathogens and reservoirs in one assay"
 collection: publications
 permalink: /publication/2020-skeeters-metagenomics
 date: 2020-02-13
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.02.10.942854v1'
-citation: 'Batson J, Kistler A, Dudas G, Li L, Ratnasari K, Haas-Stapleton E, Logan P, Retallack H, 2020. &quot;Single mosquito metatranscriptomics recovers mosquito species, blood meal sources, and microbial cargo, including viral dark matter&quot;. <i>bioRxiv</i>: 2020.02.10.942854.'
+citation: 'Batson J, Kistler A, Dudas G, Li L, Ratnasari K, Haas-Stapleton E, Logan P, Retallack H, 2020. &quot;Single mosquito metatranscriptomics identifies vectors, emerging pathogens and reservoirs in one assay&quot;. <i>bioRxiv</i>: 2020.02.10.942854.'
 doi: 10.1101/2020.02.10.942854
 tags:
   - metagenomics
