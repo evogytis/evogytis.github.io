@@ -60,7 +60,7 @@ Teaching
 Professional service
 ======
 
-* _Ad hoc_ referee for BMC Bioinformatics, Nature Communications, Nature Medicine, Nature Microbiology, PLoS Currents Outbreaks, eLife, PLoS Neglected Tropical Diseases, Molecular Biology and Evolution, Molecular Epidemiology and Evolutionary Genetics of Infectious Diseases, The Journal of Infectious Diseases, PLoS Pathogens, PeerJ, Proceedings of the Royal Society B, Scientific Reports, Virology Journal, Virus Evolution.
+* _Ad hoc_ referee for BMC Bioinformatics, Cell Reports, Nature Communications, Nature Medicine, Nature Microbiology, PLoS Currents Outbreaks, eLife, PLoS Neglected Tropical Diseases, Molecular Biology and Evolution, Molecular Epidemiology and Evolutionary Genetics of Infectious Diseases, The Journal of Infectious Diseases, PLoS Pathogens, PeerJ, Proceedings of the Royal Society B, Scientific Reports, Virology Journal, Virus Evolution.
 * Social media manager for Virus Evolution.
 
 Awards
