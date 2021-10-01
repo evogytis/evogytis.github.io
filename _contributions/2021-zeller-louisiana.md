@@ -5,7 +5,7 @@ permalink: /contributions/2021-zeller-louisiana
 date: 2021-07-27
 venue: 'Cell'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0092867421008898'
-citation: 'Zeller M, Gangavarapu K, Anderson C, Smither AR, Vanchiere JA, Rose R, Snyder DJ, <b>Dudas G</b>, Watts A, Matteson NL, Robles-Sikisaka R, Marshall M, Feehan AK, Sabino-Santos Jr G, Bell-Kareem AR, Hughes LD, Alkuzweny M, Snarski P, Garcia-Diaz J, Scott RS, Melnik LI, Klitting R, McGraw M, Belda-Ferre P, DeHoff P, Sathe S, Marotz C, Grubaugh N, Nolan DJ, Drouin AC, Genemaras KJ, Chao K, Topol S, Spencer E, Nicholson L, Aigner S, Yeo GW, Farnaes L, Hobbs CA, Laurent LC, Knight R, Hodcroft EB, Khan K, Fusco DN, Cooper VS, Lemey P, Gardner L, Lamers SL, Kamil JP, Garry RF, Suchard MA, Andersen KG, 2021. &quot;Emergence of an early SARS-CoV-2 epidemic in the United States&quot;. Cell (in press).'
+citation: 'Zeller M, Gangavarapu K, Anderson C, Smither AR, Vanchiere JA, Rose R, Snyder DJ, <b>Dudas G</b>, Watts A, Matteson NL, Robles-Sikisaka R, Marshall M, Feehan AK, Sabino-Santos Jr G, Bell-Kareem AR, Hughes LD, Alkuzweny M, Snarski P, Garcia-Diaz J, Scott RS, Melnik LI, Klitting R, McGraw M, Belda-Ferre P, DeHoff P, Sathe S, Marotz C, Grubaugh N, Nolan DJ, Drouin AC, Genemaras KJ, Chao K, Topol S, Spencer E, Nicholson L, Aigner S, Yeo GW, Farnaes L, Hobbs CA, Laurent LC, Knight R, Hodcroft EB, Khan K, Fusco DN, Cooper VS, Lemey P, Gardner L, Lamers SL, Kamil JP, Garry RF, Suchard MA, Andersen KG, 2021. &quot;Emergence of an early SARS-CoV-2 epidemic in the United States&quot;. Cell 184, 4939–4952.'
 doi: 10.1016/j.cell.2021.07.030
 tags:
   - SARS-CoV-2
