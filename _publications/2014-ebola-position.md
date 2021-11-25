@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2014-ebola-position
 date: 2014-05-02
 venue: 'PLOS Currents Outbreaks'
-paperurl: 'http://currents.plos.org/outbreaks/article/phylogenetic-analysis-of-guinea-2014-ebov-ebolavirus-outbreak-2/'
+paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024086/'
 citation: 'Dudas G, Rambaut A, 2014. &quot;Phylogenetic Analysis of Guinea 2014 EBOV Ebolavirus Outbreak&quot;. <i>PLOS Currents Outbreaks</i> Edition 1.'
 doi: 10.1371/currents.outbreaks.84eefe5ce43ec9dc0bf0670f7b8b417d
 tags:
