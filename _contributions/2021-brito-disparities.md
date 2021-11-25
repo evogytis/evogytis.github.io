@@ -5,7 +5,7 @@ permalink: /contributions/2021-brito-disparities
 date: 2021-08-26
 venue: 'medRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2021.08.21.21262393v1'
-citation: 'Brito AF, Semenova E, Dudas G, Hassler GW, Kalinich CC, Kraemer MUG, Hill SC, Danish Covid-19 Genome Consortium, Sabino EC, Pybus OG, Dye C, Bhatt S, Flaxman S, Suchard MA, Grubaugh ND, Baele G, Faria NR, 2021. &quot;Global disparities in SARS-CoV-2 genomic surveillance&quot;. medRxiv 2021.08.21.21262393.'
+citation: 'Brito AF, Semenova E, <b>Dudas G</b>, Hassler GW, Kalinich CC, Kraemer MUG, Hill SC, Danish Covid-19 Genome Consortium, Sabino EC, Pybus OG, Dye C, Bhatt S, Flaxman S, Suchard MA, Grubaugh ND, Baele G, Faria NR, 2021. &quot;Global disparities in SARS-CoV-2 genomic surveillance&quot;. medRxiv 2021.08.21.21262393.'
 doi: 10.1101/2021.08.21.21262393
 tags:
   - SARS-CoV-2

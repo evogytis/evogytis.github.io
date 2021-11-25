@@ -5,7 +5,7 @@ permalink: /contributions/2021-chazot-nymphalidae
 date: 2021-09-29
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-25906-8'
-citation: 'Chazot N, Condamine FL, Dudas G, Peña C, Kodandaramaiah U,  Matos-Maraví P, Aduse-Poku K, Elias M, Warren A, Lohman DJ, Penz CM, DeVries P, Fric ZF, Nylin S, Müller C, Kawahara AY, Silva-Brandão KL, Lamas G, Kleckova I, Zubek A, Ortiz-Acevedo E, Vila R, Vane-Wright RI, Mullen SP, Jiggins CD, Wheat C, Freitas AVL, Wahlberg N, 2021. &quot;Conserved ancestral tropical niche but different continental histories explain the latitudinal diversity gradient in brush-footed butterflies&quot;. <i>Nature Communications</i> 12: 5717.'
+citation: 'Chazot N, Condamine FL, <b>Dudas G</b>, Peña C, Kodandaramaiah U,  Matos-Maraví P, Aduse-Poku K, Elias M, Warren A, Lohman DJ, Penz CM, DeVries P, Fric ZF, Nylin S, Müller C, Kawahara AY, Silva-Brandão KL, Lamas G, Kleckova I, Zubek A, Ortiz-Acevedo E, Vila R, Vane-Wright RI, Mullen SP, Jiggins CD, Wheat C, Freitas AVL, Wahlberg N, 2021. &quot;Conserved ancestral tropical niche but different continental histories explain the latitudinal diversity gradient in brush-footed butterflies&quot;. <i>Nature Communications</i> 12: 5717.'
 doi: 10.1038/s41467-021-25906-8
 tags:
   - phylogeography
