@@ -14,10 +14,11 @@ PDF version of my CV available [here](http://evogytis.github.io/files/gd_cv.pdf)
 Postgraduate career
 ======
 
+* 2021- Senior Researcher, Life Sciences Centre at Vilnius University
 * 2020- Consultant, Ring Therapeutics
 * 2018- Consultant, The Scripps Research Institute
 * 2018- Consultant, BioHub
-* 2016-2018 Mahan Postdoctoral Fellowship, Fred Hutchinson Cancer Research Center, Seattle, WA, USA
+* 2016-2018 Mahan Postdoctoral Fellowship, Fred Hutchinson Cancer Research Center
 : Mentor: Trevor Bedford.
 
 Education
@@ -60,7 +61,7 @@ Teaching
 Professional service
 ======
 
-* _Ad hoc_ referee for BMC Bioinformatics, Cell Reports, Nature Communications, Nature Medicine, Nature Microbiology, PLoS Currents Outbreaks, eLife, PLoS Neglected Tropical Diseases, Molecular Biology and Evolution, Molecular Epidemiology and Evolutionary Genetics of Infectious Diseases, The Journal of Infectious Diseases, PLoS Pathogens, PeerJ, Proceedings of the Royal Society B, Scientific Reports, Virology Journal, Virus Evolution.
+* _Ad hoc_ referee for BMC Bioinformatics, Cell Reports, Nature Communications, Nature Medicine, Nature Microbiology, PLoS Currents Outbreaks, eLife, PLoS Neglected Tropical Diseases, BMC Genome Medicine, Molecular Biology and Evolution, Infection, Genetics and Evolution, The Journal of Infectious Diseases, PLoS Pathogens, PeerJ, Proceedings of the Royal Society B, Scientific Reports, Virology Journal, Virus Evolution.
 * Social media manager for Virus Evolution.
 
 Awards
