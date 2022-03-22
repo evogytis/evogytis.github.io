@@ -1,0 +1,7 @@
+---
+title: "Genominė epidemiologija: kaip atrodo protrūkiai iš virusų perspektyvos"
+collection: outreach
+permalink: https://www.facebook.com/events/674787363873137/?event_time_id=674787367206470
+date: 2022-03-18
+host: Vilnius University
+---

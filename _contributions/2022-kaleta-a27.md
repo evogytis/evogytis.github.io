@@ -5,7 +5,7 @@ permalink: /contributions/2022-kaleta-a27
 date: 2022-03-03
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-022-28766-y'
-citation: 'Kaleta T, Kern L, Hong S, Hölzer M, Kochs G, Beer J, Schnepf D, Schwemmle M, Bollen N, Kolb P, Huber M, Ulferts S, Weigang S, <b>Dudas G</b>, Wittig A, Jaki L, Padane A, Lagare A, Salou M, Ozer E, Nnaemeka N, Odoom J, Rutayisire R, Benkahla A, Akoua-Koffi C, Ouedraogo AS, Simon-Loriere E, Enouf V, Kröger S, Calvignac-Spencer S, Baele G, Panning M, Fuchs J, 2021. &quot;Antibody escape and global spread of SARS-CoV-2 lineage A.27&quot;. <i>Nature Communications</i> 13: 1152.'
+citation: 'Kaleta T, Kern L, Hong S, Hölzer M, Kochs G, Beer J, Schnepf D, Schwemmle M, Bollen N, Kolb P, Huber M, Ulferts S, Weigang S, <b>Dudas G</b>, Wittig A, Jaki L, Padane A, Lagare A, Salou M, Ozer E, Nnaemeka N, Odoom J, Rutayisire R, Benkahla A, Akoua-Koffi C, Ouedraogo AS, Simon-Loriere E, Enouf V, Kröger S, Calvignac-Spencer S, Baele G, Panning M, Fuchs J, 2022. &quot;Antibody escape and global spread of SARS-CoV-2 lineage A.27&quot;. <i>Nature Communications</i> 13: 1152.'
 doi: 10.1038/s41467-022-28766-y
 tags:
   - SARS-CoV-2
