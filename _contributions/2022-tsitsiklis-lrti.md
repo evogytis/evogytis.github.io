@@ -5,7 +5,7 @@ permalink: /contributions/2022-tsitsiklis-lrti
 date: 2022-03-09
 venue: 'The Lancet Microbe'
 paperurl: 'https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00304-9/fulltext'
-citation: 'Tsitsiklis A, Osborne CM, Kamm J, Williamson K, Kalantar K, <b>Dudas G</b>, Caldera S, Lyden A, Tan M, Neff N, Soesanto V, Harris JK, Ambroggio L, Maddux AB, Carpenter TC, Reeder RW, Locandro C, Simões EAF, Leroue MK, Hall MW, Zuppa AF, Carcillo J, Meert KL, Sapru A, Pollack MM, McQuillen PS, Notterman DA, Dean JM, Zinter MS, Wagner BD, DeRisi JL, Mourani PM, Langelier CR, 2022. &quot;Antibody escape and global spread of SARS-CoV-2 lineage A.27&quot;. <i>The Lancet Microbe</i> (in press).'
+citation: 'Tsitsiklis A, Osborne CM, Kamm J, Williamson K, Kalantar K, <b>Dudas G</b>, Caldera S, Lyden A, Tan M, Neff N, Soesanto V, Harris JK, Ambroggio L, Maddux AB, Carpenter TC, Reeder RW, Locandro C, Simões EAF, Leroue MK, Hall MW, Zuppa AF, Carcillo J, Meert KL, Sapru A, Pollack MM, McQuillen PS, Notterman DA, Dean JM, Zinter MS, Wagner BD, DeRisi JL, Mourani PM, Langelier CR, 2022. &quot;Lower respiratory tract infections in children requiring mechanical ventilation: a multicentre prospective surveillance study incorporating airway metagenomics&quot;. <i>The Lancet Microbe</i> 3(4): e284-e293.'
 doi: 10.1016/S2666-5247(21)00304-9
 tags:
   - RSV
