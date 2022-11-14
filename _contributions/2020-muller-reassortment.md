@@ -4,7 +4,7 @@ collection: contributions
 permalink: /contributions/2020-muller-reassortment
 date: 2020-07-21
 venue: 'PNAS'
-paperurl: 'https://www.biorxiv.org/content/10.1101/726042v1'
+paperurl: 'https://www.pnas.org/content/117/29/17104.short'
 citation: 'M&uuml;ller NF, Stolz U, <b>Dudas G</b>, Stadler T, Vaughan TG, 2019. &quot;Bayesian inference of reassortment networks reveals fitness benefits of reassortment in human influenza viruses&quot;. PNAS: 117 (29) 17104-17111.'
 doi: 10.1073/pnas.1918304117
 tags:

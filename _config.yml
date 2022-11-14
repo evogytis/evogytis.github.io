@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Gytis Dudas"
   avatar           : "profile.png"
-  bio              : "Evolutionary biologist by training, a rogue by nature. Broad interests in (-ssRNA) virus evolution as seen through the lens of (Bayesian) phylogenetics."
-  location         : "Gothenburg, Sweden"
-  employer         :
+  bio              : "PI at Vilnius University Life Sciences Center 🦠🧬🌳🌍🐾📈. Virus discovery & evolution, genomic epi, data-vis, matplotlib. Orthomyxo (and broadly -ssRNA) virus enthusiast."
+  location         : "Vilnius, Lithuania"
+  employer         : "Life Sciences Center, Vilnius University"
   googlescholar    : "http://scholar.google.co.uk/citations?user=nwiME18AAAAJ&hl=en"
   email            :
   uri              :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "gytis-dudas-296170224"
   orcid            : "http://orcid.org/0000-0002-0227-4158"
   pinterest        :
   soundcloud       :
@@ -108,7 +108,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UCjK7FAM0-QBTV8oTuSHZULg"
   wikipedia        :
 
 

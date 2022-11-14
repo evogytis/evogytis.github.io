@@ -6,7 +6,7 @@ date: 2019-02-24
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/1902.08877'
 citation: 'Tang M, <b>Dudas G</b>, Bedford T, Minin VN., 2019. &quot;Fitting stochastic epidemic models to gene genealogies using linear noise approximation&quot;. <i>arXiv</i>:1902.08877.'
-doi: arxiv/1108.2455
+doi: 10.48550/arXiv.1902.08877
 tags:
   - Ebola virus
   - methods
