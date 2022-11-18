@@ -5,7 +5,7 @@ permalink: /publication/2022-orthomyxo-metagenomics
 date: 2022-09-03
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.08.31.505987v1'
-citation: 'Dudas G and Batson J, 2022. &quot;Accumulated metagenomic studies reveal recent migration, whole genome evolution, and taxonomic incompleteness of orthomyxoviruses&quot;. <i>bioRxiv</i> '
+citation: 'Dudas G and Batson J, 2022. &quot;Accumulated metagenomic studies reveal recent migration, whole genome evolution, and taxonomic incompleteness of orthomyxoviruses&quot;. <i>bioRxiv</i> 2022.08.31.505987'
 doi: 10.1101/2022.08.31.505987
 tags:
   - metagenomics
