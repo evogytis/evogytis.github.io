@@ -7,10 +7,14 @@ redirect_from:
 ---
 
 Welcome to my site.
-My name is Gytis Dudas and I'm a scientist who works on viruses.
-My interests very broadly cover the evolution and ecology of viruses and inferring patterns of virus dispersal and transmission that reflect host movements and contact networks.
-I have worked with diverse human viruses in the past with influenza B, MERS corona-, Zika, and Ebola viruses being the more widely known, though I also thoroughly enjoy rummaging through animal metagenomic datasets for new viruses.
-Whenever possible I employ state-of-the-art [Bayesian phylogenetic](http://beast.community/index.html) models and make liberal use of customised data visualisation techniques to present my work.
+My name is Gytis Dudas and I'm a scientist at Vilnius University's Life Sciences Center (in Lithuania) who works on viruses.
+My interests very broadly cover the evolution and ecology of (RNA) viruses from the most closely related lineages in an outbreak setting to radical changes viruses undergo over (presumably) geological timescales.
+
+I have worked with SARS-CoV-2, Ebola, MERS-corona-, and Zika viruses on the genomic epidemiology side, studied influenza B, anelloviruses (that one's DNA!), and various metagenomically discovered viruses through a more evolutionary biology lens, and I'm currently fascinated with the evolution of _Orthomyxoviridae_ on longer timescales.
+Highly customised data visualisations of phylogenetic trees using [baltic](https://github.com/evogytis/baltic), a simple tree parser/visualisation code with plenty of flexibility that I wrote, is one of my signatures.
+
+If you spot the occasional paper that doesn't look virus-y I've probably contributed analyses or data visualisations to it and would be happy to contribute to yours if the problem is interesting and visualisation challenging enough.
+
 Here are a couple of examples of data visualisations I've made:
 
 ***
@@ -25,9 +29,9 @@ What to expect
 ======
 
 ### Papers
-In case you missed them on [bioRxiv](https://www.biorxiv.org/search/author1%3AGytis%2BDudas) my papers also live here.
-I have been fortunate enough to grow up in an open academic environment where I never felt like I had to obfuscate what I do to give the impression that my contributions are indispensable, or hide my research from prying eyes seeking to scoop me at every step of the way.
-I try my best to make all of my work freely available, from data, to code, to publication, because I stand by the results I publish.
+In case you missed them on [bioRxiv/medRxiv](https://www.biorxiv.org/search/author1%3AGytis%2BDudas%20jcode%3Amedrxiv%7C%7Cbiorxiv%20numresults%3A75%20sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard) my papers also live here.
+You'll see that I've split papers that I've co-authored into two categories - if I thought a particular paper would not have been the same without my intellectual input it lands under [publications](https://evogytis.github.io/publications/) regardless of my author position and [contributions](https://evogytis.github.io/contributions/) otherwise.
+I try my best to [make all of my work freely available, from data, to code, to publication](https://github.com/evogytis), because I stand by the results I publish.
 If you find bugs in my code I'd be more than happy to fix them.
 
 ### Behind the scenes

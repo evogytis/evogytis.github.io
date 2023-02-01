@@ -14,10 +14,10 @@ PDF version of my CV available [here](http://evogytis.github.io/files/gd_cv.pdf)
 Postgraduate career
 ======
 
-* 2021- Senior Researcher, Life Sciences Centre at Vilnius University
+* 2021- Principal Investigator / Senior Researcher, Life Sciences Centre at Vilnius University
 * 2020- Consultant, Ring Therapeutics
 * 2018- Consultant, The Scripps Research Institute
-* 2018- Consultant, BioHub
+* 2018- Consultant, Chan Zuckerberg BioHub
 * 2016-2018 Mahan Postdoctoral Fellowship, Fred Hutchinson Cancer Research Center
 : Mentor: Trevor Bedford.
 
@@ -43,6 +43,11 @@ Research contributions
   <ul>{% for post in site.contributions reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Funding
+======
+
+* 2023- EMBO installation grant, 3 years, €150 000.
 
 Talks
 ======
@@ -71,11 +76,6 @@ Awards
 * 2017 Young Investigator Award to attend "Next Generation Informatics for Global Health: Disease Dynamics and Digital Epidemiology" in Hong Kong.
 * 2015 SMBE Young Investigator Travel Award to attend the SMBE 2015 meeting in Vienna.
 * 2015 Wellcome Trust Travel Grant to attend the "Forecasting Evolution?" meeting in Lisbon.
-
-Workshops
-======
-
-* 2015 University of Birmingham, ["PoreCamp: A bootcamp to learn about operating the Oxford Nanopore MinION"](http://porecamp.github.io/2015/index.html).
 
 Public outreach
 ======
