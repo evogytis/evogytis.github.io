@@ -5,7 +5,7 @@ permalink: /publication/2016-mers-recombination
 date: 2016-01-20
 venue: 'Virus Evolution'
 paperurl: 'https://academic.oup.com/ve/article/2/1/vev023/1753363'
-citation: 'Dudas G, Rambaut A, 2016. &quot;MERS-CoV recombination: implications about the reservoir and potential for adaptation&quot;. <i>Virus Evolution</i> 2(1): vev023.'
+citation: '<b>Dudas G</b>, Rambaut A, 2016. &quot;MERS-CoV recombination: implications about the reservoir and potential for adaptation&quot;. <i>Virus Evolution</i> 2(1): vev023.'
 doi: 10.1093/ve/vev023
 tags:
   - MERS coronavirus

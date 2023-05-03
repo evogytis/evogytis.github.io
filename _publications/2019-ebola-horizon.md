@@ -5,7 +5,7 @@ permalink: /publication/2019-ebola-horizon
 date: 2019-12-26
 venue: 'BMC Evolutionary Biology'
 paperurl: 'https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1567-0'
-citation: 'Dudas G, Bedford T, 2019. &quot;The ability of single genes vs full genomes to resolve time and space in outbreak analysis&quot;. <i>BMC Evolutionary Biology</i> 19: 232.'
+citation: '<b>Dudas G</b>, Bedford T, 2019. &quot;The ability of single genes vs full genomes to resolve time and space in outbreak analysis&quot;. <i>BMC Evolutionary Biology</i> 19: 232.'
 doi: 10.1186/s12862-019-1567-0
 tags:
   - Ebola virus

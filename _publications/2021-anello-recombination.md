@@ -5,7 +5,7 @@ permalink: /publication/2021-anello-recombination
 date: 2021-07-27
 venue: 'Cell Host & Microbe'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1931312821003024'
-citation: 'Arze CA, Springer S, Dudas G,  P Sneha, Bhattacharyya A, Swaminathan H, Brugnara C, Delagrave S, Ong T, Kahvejian A, Echelard Y, Weinstein EG, Hajjar RJ, Andersen KG, Yozwiak NL, 2021. &quot;Global genome analysis reveals a vast and dynamic anellovirus landscape within the human virome&quot;. <i>Cell Host & Microbe</i> 29(8):1305-1315.e6.'
+citation: 'Arze CA, Springer S, <b>Dudas G</b>,  P Sneha, Bhattacharyya A, Swaminathan H, Brugnara C, Delagrave S, Ong T, Kahvejian A, Echelard Y, Weinstein EG, Hajjar RJ, Andersen KG, Yozwiak NL, 2021. &quot;Global genome analysis reveals a vast and dynamic anellovirus landscape within the human virome&quot;. <i>Cell Host & Microbe</i> 29(8):1305-1315.e6.'
 doi: 10.1016/j.chom.2021.07.001
 tags:
   - virus evolution

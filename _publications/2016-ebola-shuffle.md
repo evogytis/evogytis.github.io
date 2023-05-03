@@ -5,7 +5,7 @@ permalink: /publication/2016-ebola-shuffle
 date: 2016-08-12
 venue: 'Science'
 paperurl: 'http://science.sciencemag.org/content/353/6300/658.1'
-citation: 'Rambaut A, Dudas G, de Carvalho LM, Park DJ, Yozwiak NL, Holmes EC, Andersen KG, 2016. &quot;Comment on “Mutation rate and genotype variation of Ebola virus from Mali case sequences”&quot;. <i>Science</i> 353(6300): 658.'
+citation: 'Rambaut A, <b>Dudas G</b>, de Carvalho LM, Park DJ, Yozwiak NL, Holmes EC, Andersen KG, 2016. &quot;Comment on “Mutation rate and genotype variation of Ebola virus from Mali case sequences”&quot;. <i>Science</i> 353(6300): 658.'
 doi: 10.1126/science.aaf3823
 tags:
   - Ebola virus

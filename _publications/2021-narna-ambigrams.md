@@ -5,7 +5,7 @@ permalink: /publication/2021-narna-ambigrams
 date: 2021-04-19
 venue: 'Virus Evolution'
 paperurl: 'https://academic.oup.com/ve/article/7/1/veab038/6237938'
-citation: 'Dudas G, Huber G,  Wilkinson M, Yllanes D, 2021. &quot;Polymorphism of Genetic Ambigrams&quot;. <i>Virus Evolution</i> 7(1): veab038.'
+citation: '<b>Dudas G</b>, Huber G,  Wilkinson M, Yllanes D, 2021. &quot;Polymorphism of Genetic Ambigrams&quot;. <i>Virus Evolution</i> 7(1): veab038.'
 doi: 10.1101/2021.02.16.431493
 tags:
   - metagenomics

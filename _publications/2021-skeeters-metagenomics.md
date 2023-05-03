@@ -5,7 +5,7 @@ permalink: /publication/2021-skeeters-metagenomics
 date: 2021-04-27
 venue: 'eLife'
 paperurl: 'https://elifesciences.org/articles/68353'
-citation: 'Batson J, Kistler A, Dudas G, Li L, Ratnasari K, Haas-Stapleton E, Logan P, Retallack H, 2021. &quot;Single mosquito metatranscriptomics identifies vectors, emerging pathogens and reservoirs in one assay&quot;. <i>eLife</i> 10:e68353'
+citation: 'Batson J, Kistler A, <b>Dudas G</b>, Li L, Ratnasari K, Haas-Stapleton E, Logan P, Retallack H, 2021. &quot;Single mosquito metatranscriptomics identifies vectors, emerging pathogens and reservoirs in one assay&quot;. <i>eLife</i> 10:e68353'
 doi: 10.7554/eLife.68353
 tags:
   - metagenomics

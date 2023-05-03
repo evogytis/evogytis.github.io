@@ -5,7 +5,7 @@ permalink: /publication/2017-mers-structure
 date: 2017-12-19
 venue: 'eLife'
 paperurl: 'https://elifesciences.org/articles/31257'
-citation: 'Dudas G, de Carvalho LM, Rambaut A, Bedford T, 2017. &quot;MERS-CoV spillover at the camel-human interface&quot;. <i>eLife</i> 7: e31257.'
+citation: '<b>Dudas G</b>, de Carvalho LM, Rambaut A, Bedford T, 2017. &quot;MERS-CoV spillover at the camel-human interface&quot;. <i>eLife</i> 7: e31257.'
 doi: 10.7554/eLife.31257
 tags:
   - MERS coronavirus
