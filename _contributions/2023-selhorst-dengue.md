@@ -15,7 +15,7 @@ tags:
 
 ### Background
 
-The origin and spread of dengue virus (DENV) circulating in Africa remain poorly characterized, with African sequences representing &lt1% of global sequence data.
+The origin and spread of dengue virus (DENV) circulating in Africa remain poorly characterized, with African sequences representing <1% of global sequence data.
 
 ### Methods
 
