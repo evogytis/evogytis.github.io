@@ -5,7 +5,7 @@ permalink: /contributions/2020-karcher-ne
 date: 2020-10-12
 venue: 'PLoS Computation Biology'
 paperurl: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007774'
-citation: 'Karcher MD, Carvalho MC, Suchard MA, <b>Dudas G</b>, Minin VN., 2020. &quot;Estimating effective population size changes from preferentially sampled genetic sequences&quot;. <i>PLoS Comput Biol</i>16(10): e1007774.'
+citation: 'Karcher MD, Carvalho MC, Suchard MA, <b>Dudas G</b>, Minin VN, 2020. &quot;Estimating effective population size changes from preferentially sampled genetic sequences&quot;. <i>PLoS Comput Biol</i>16(10): e1007774.'
 doi: 10.1371/journal.pcbi.1007774
 tags:
   - Ebola virus
