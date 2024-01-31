@@ -5,7 +5,7 @@ permalink: /publication/2023-orthomyxo-metagenomics
 date: 2023-10-13
 venue: 'Journal of Virology'
 paperurl: 'https://journals.asm.org/doi/10.1128/jvi.01056-23'
-citation: '<b>Dudas G</b> and Batson J, 2022. &quot;Accumulated metagenomic studies reveal recent migration, whole genome evolution, and undiscovered diversity of orthomyxoviruses&quot;. <i>Journal of Virology</i> 97(10): e01056-23'
+citation: '<b>Dudas G</b> and Batson J, 2023. &quot;Accumulated metagenomic studies reveal recent migration, whole genome evolution, and undiscovered diversity of orthomyxoviruses&quot;. <i>Journal of Virology</i> 97(10): e01056-23'
 doi: 10.1128/jvi.01056-23
 tags:
   - metagenomics

@@ -5,7 +5,7 @@ permalink: /contributions/2023-selhorst-dengue
 date: 2023-04-21
 venue: 'International Journal of Infectious Diseases'
 paperurl: 'https://www.ijidonline.com/article/S1201-9712(23)00521-0/fulltext'
-citation: 'Selhorst P, Lequime S, <b>Dudas G</b>, Proesmans S, Lutumbah P, Katshongo F, Ramadan K, Micalessi I, Ahuka-Mundeke S, Vanlerberghe V, Van Esbroeck M, Arien KK, 2023. &quot;Phylogeographic analysis of dengue virus serotype 1 and Cosmopolitan serotype 2 in Africa&quot;. <i>International Journal of Infectious Diseases</i> .'
+citation: 'Selhorst P, Lequime S, <b>Dudas G</b>, Proesmans S, Lutumbah P, Katshongo F, Ramadan K, Micalessi I, Ahuka-Mundeke S, Vanlerberghe V, Van Esbroeck M, Arien KK, 2023. &quot;Phylogeographic analysis of dengue virus serotype 1 and Cosmopolitan serotype 2 in Africa&quot;. <i>International Journal of Infectious Diseases</i> 133: 46-52.'
 doi: 10.1016/j.ijid.2023.04.391
 tags:
   - Dengue virus
