@@ -27,10 +27,18 @@
       </div>
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+
+      {% if post.paperurl and post.doi %}
+        <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a><span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-style="small_rectangle"></span><span data-badge-popover="right" data-badge-type="4" data-doi="{{ post.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+      {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      
+      {% elsif post.collection == 'teaching' %}
+        <p>{{ post.date | default: "1900-01-01" | date: "%Y %b" }}: <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title}}</a>, {{ post.venue }}</p>
+
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <p>{{ post.date | default: "1900-01-01" | date: "%Y %b" }}: <a href="{{ post.outreach_url }}" rel="permalink">{{ title}}</a>, {{ post.host }}</p>
       {% endif %}
     </h3>
     {% if post.read_time %}
