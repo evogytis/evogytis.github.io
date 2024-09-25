@@ -6,7 +6,7 @@ permalink: /contributions/2024-glascock-pomelo
 date: 2024-01-30
 venue: 'BMC Bioinformatics'
 paperurl: 'https://link.springer.com/article/10.1186/s12859-024-05640-w'
-citation: 'Glascock AL, Waltari E, <b>Dudas G</b>, Wong J, Ahyong V, 2023. &quot;PoMeLo: a systematic computational approach to predicting metabolic loss in pathogen genomes&quot;. <i>BMC Bioinformatics</i> 25, 49.'
+citation: 'Glascock AL, Waltari E, <b>Dudas G</b>, Wong J, Ahyong V, 2024. &quot;PoMeLo: a systematic computational approach to predicting metabolic loss in pathogen genomes&quot;. <i>BMC Bioinformatics</i> 25, 49.'
 doi: 10.1186/s12859-024-05640-w
 tags:
   - bacteria
