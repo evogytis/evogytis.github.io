@@ -6,7 +6,7 @@ permalink: /contributions/2018-muller-ebola
 date: 2019-08-14
 venue: 'Virus Evolution'
 paperurl: 'https://academic.oup.com/ve/article/5/2/vez030/5549805'
-citation: 'Müller NF, <b>Dudas G</b>, Stadler T, 2019. &quot;Inferring time-dependent migration and coalescence patterns from genetic sequence and predictor data in structured populations&quot;. Virus Evolution 5(2): vez030.'
+citation: 'Müller NF, <b>Dudas G</b>, Stadler T, 2019. &quot;Inferring time-dependent migration and coalescence patterns from genetic sequence and predictor data in structured populations&quot;. <i>Virus Evolution</i> 5(2): vez030.'
 doi: 10.1093/ve/vez030
 tags:
   - Ebola virus

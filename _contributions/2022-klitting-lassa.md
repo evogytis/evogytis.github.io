@@ -6,7 +6,7 @@ permalink: /contributions/2022-klitting-lassa
 date: 2022-09-27
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-022-33112-3'
-citation: 'Klitting R, Kafetzopoulou LE, Thiery W, <b>Dudas G</b>, Gryseels S, Kotamarthi A, Vrancken B, Gangavarapu K, Momoh M, Sandi JD, Goba A, Alhasan F, Grant DS, Okogbenin S, Ogbaini-Emovo E, Garry RF, Smither AR, Zeller M, Pauthner MG, McGraw M, Hughes LD, Duraffour S, Günther S, Suchard MA, Lemey P, Andersen KG, Dellicour S, 2022. &quot;Predicting the evolution of the Lassa virus endemic area and population at risk over the next decades&quot;. Nature Communications 13: 5596.'
+citation: 'Klitting R, Kafetzopoulou LE, Thiery W, <b>Dudas G</b>, Gryseels S, Kotamarthi A, Vrancken B, Gangavarapu K, Momoh M, Sandi JD, Goba A, Alhasan F, Grant DS, Okogbenin S, Ogbaini-Emovo E, Garry RF, Smither AR, Zeller M, Pauthner MG, McGraw M, Hughes LD, Duraffour S, Günther S, Suchard MA, Lemey P, Andersen KG, Dellicour S, 2022. &quot;Predicting the evolution of the Lassa virus endemic area and population at risk over the next decades&quot;. <i>Nature Communications</i> 13: 5596.'
 doi: 10.1038/s41467-022-33112-3
 tags:
   - Lassa fever virus

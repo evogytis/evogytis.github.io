@@ -6,7 +6,7 @@ permalink: /contributions/2021-pautienius-milk
 date: 2021-09-05
 venue: 'Viruses'
 paperurl: 'https://www.mdpi.com/1999-4915/13/9/1772'
-citation: 'Pautienius A, <b>Dudas G</b>, Simkute E, Grigas J, Zakiene I, Paulauskas A, Armonaite A, Zienius D, Slyzius E, Stankevicius A., 2021. &quot;Bulk Milk Tank Samples Are Suitable to Assess Circulation of Tick-Borne Encephalitis Virus in High Endemic Areas&quot;. Viruses 13(9): 1772.'
+citation: 'Pautienius A, <b>Dudas G</b>, Simkute E, Grigas J, Zakiene I, Paulauskas A, Armonaite A, Zienius D, Slyzius E, Stankevicius A., 2021. &quot;Bulk Milk Tank Samples Are Suitable to Assess Circulation of Tick-Borne Encephalitis Virus in High Endemic Areas&quot;. <i>Viruses</i> 13(9): 1772.'
 doi: 10.3390/v13091772
 tags:
   - methods
