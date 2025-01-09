@@ -48,7 +48,9 @@ Research contributions
 Funding
 ======
 
-* 2023- : EMBO installation grant, 3 years, €150 000.
+* 2024-2027 : co-PI, Swedish Research Council VR grant, 3 800 000 kr (approx. €330 000).
+
+* 2023- : PI, EMBO installation grant, 3 years, €150 000.
 
 Talks
 ======

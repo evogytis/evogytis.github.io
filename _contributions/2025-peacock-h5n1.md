@@ -2,11 +2,11 @@
 title: "The global H5N1 influenza panzootic in mammals"
 collection: contributions
 category: manuscripts
-permalink: /contributions/2024-peacock-h5n1
-date: 2024-09-24
+permalink: /contributions/2025-peacock-h5n1
+date: 2025-01-09
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/s41586-024-08054-z'
-citation: 'Peacock T, Moncla L, <b>Dudas G</b>, VanInsberghe D, Sukhova K, Lloyd-Smith JO, Worobey M, Lowen AC, Nelson MI, 2023. &quot;The global H5N1 influenza panzootic in mammals&quot;. <i>Nature</i> https://doi.org/10.1038/s41586-024-08054-z.'
+citation: 'Peacock T, Moncla L, <b>Dudas G</b>, VanInsberghe D, Sukhova K, Lloyd-Smith JO, Worobey M, Lowen AC, Nelson MI, 2023. &quot;The global H5N1 influenza panzootic in mammals&quot;. <i>Nature</i> 637, 304–313.'
 doi: 10.1038/s41586-024-08054-z
 tags:
   - influenza virus
