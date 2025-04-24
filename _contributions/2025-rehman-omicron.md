@@ -6,7 +6,7 @@ permalink: /contributions/2025-rehman-omicron
 date: 2025-01-06
 venue: 'Archives of Virology'
 paperurl: 'https://link.springer.com/article/10.1007/s00705-024-06211-3'
-citation: 'Rehman Z, Edington K, Jamal Z, Kritz-Wilson A, <b>Dudas G</b>, Sims S, Myers R, Afrough B, Inamdar L, Haider SA, Ikram A, Salman M, Umair M, 2023. &quot;The introduction of the SARS-CoV-2 BA.4 lineage into Pakistan&quot;. <i>Archives of Virology</i> 170, 26.'
+citation: 'Rehman Z, Edington K, Jamal Z, Kritz-Wilson A, <b>Dudas G</b>, Sims S, Myers R, Afrough B, Inamdar L, Haider SA, Ikram A, Salman M, Umair M, 2023. &quot;The introduction of the SARS-CoV-2 BA.4 lineage into Pakistan&quot;. <i>Archives of Virology</i> 170(2), 26.'
 doi: 10.1007/s00705-024-06211-3
 tags:
   - SARS-CoV-2
