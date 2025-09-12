@@ -17,8 +17,8 @@ Postgraduate career
 * 2024- : Principal Investigator / Research Professor, Life Sciences Centre at Vilnius University
 * 2021-2024: Principal Investigator / Senior Researcher, Life Sciences Centre at Vilnius University
 * 2020- : Consultant, Ring Therapeutics
-* 2018- : Consultant, The Scripps Research Institute
 * 2018- : Consultant, Chan Zuckerberg BioHub
+* 2018-2023 : Consultant, The Scripps Research Institute
 * 2016-2018: Mahan Postdoctoral Fellowship, Fred Hutchinson Cancer Center
 : Mentor: Trevor Bedford.
 
@@ -69,7 +69,7 @@ Teaching
 Professional service
 ======
 
-* 2024-2026: Component Leader for a genomic epidemiology European Commission Twinning project in Georgia (GE 21 NDICI HE 01 23). Assisting staff of the Richard Lugar Center for Public Health Research in Tbilisi in designing and implementing sustainable genomic surveillance for infectious diseases of local and international significance.
+* 2024-2026: Component Leader for a genomic epidemiology European Commission Twinning project in Georgia (GE 21 NDICI HE 01 23). Assisting staff of the Richard Lugar Center for Public Health Research in Tbilisi in designing and implementing sustainable genomic surveillance for infectious diseases of local and international significance. Project on hold as of June 2025 due to the violation of democratic norms in Georgia following its 2024 presidential election.
 * 2021-2022: Co-author and chief data analyst for Lithuania's pandemic SARS-CoV-2 genomic surveillance project. The project generated >39 000 SARS-CoV-2 genomes February 2021 - May 2022 averaging ~2.0% (between 0.2% and 28% in a given month) of all COVID-19 cases in Lithuania.
 * 2021-2022: Advisory council of independent experts to the Lithuanian government tasked with advising the government on COVID-19 prevention, diagnostics, treatment, and application of other means of epidemic control.
 * 2016-2018: Social media manager for Virus Evolution.
