@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "London, UK",
-    51.4893335,
-    -0.14405508452768728
+    51.5074456,
+    -0.1277653
   ],
   [
     "Oxford, UK",
@@ -46,8 +46,8 @@ var addressPoints = [
   ],
   [
     "Atlanta, Georgia",
-    33.7489924,
-    -84.3902644
+    33.7544657,
+    -84.3898151
   ],
   [
     "Boston, Massachusetts",
@@ -61,8 +61,8 @@ var addressPoints = [
   ],
   [
     "Hong Kong",
-    22.2793278,
-    114.1628131
+    22.350627,
+    114.1849161
   ],
   [
     "Edinburgh, UK",
@@ -138,5 +138,10 @@ var addressPoints = [
     "Tbilisi, Georgia",
     41.6934591,
     44.8014495
+  ],
+  [
+    "Warsaw, Poland",
+    52.2319581,
+    21.0067249
   ]
 ];
