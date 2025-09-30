@@ -6,7 +6,7 @@ permalink: /contributions/2024-brusselmans-topology
 date: 2024-10-15
 venue: 'Virus Evolution'
 paperurl: 'https://academic.oup.com/ve/advance-article/doi/10.1093/ve/veae081/7822753'
-citation: 'Brusselmans M, Carvalho LM, Hong SL, Gao J, Matsen IV FA, Rambaut A, Lemey P, Suchard MA, <b>Dudas G</b>, Baele G, 2024. &quot;On the importance of assessing topological convergence in Bayesian phylogenetic inference&quot;. <i>Virus Evolution</i>: veae081.'
+citation: 'Brusselmans M, Carvalho LM, Hong SL, Gao J, Matsen IV FA, Rambaut A, Lemey P, Suchard MA, <b>Dudas G</b>, Baele G, 2024. &quot;On the importance of assessing topological convergence in Bayesian phylogenetic inference&quot;. <i>Virus Evolution</i> 10(1): veae081.'
 doi: 10.1093/ve/veae081
 tags:
   - Ebola virus
