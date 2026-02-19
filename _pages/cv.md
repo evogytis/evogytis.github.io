@@ -15,11 +15,11 @@ Postgraduate career
 ======
 
 * 2024- : Principal Investigator / Research Professor, Life Sciences Centre at Vilnius University
-* 2021-2024: Principal Investigator / Senior Researcher, Life Sciences Centre at Vilnius University
-* 2020- : Consultant, Ring Therapeutics
+* 2021-2024 : Principal Investigator / Senior Researcher, Life Sciences Centre at Vilnius University
+* 2020-2025 : Consultant, Ring Therapeutics
 * 2018-2024 : Consultant, Chan Zuckerberg BioHub
 * 2018-2023 : Consultant, The Scripps Research Institute
-* 2016-2018: Mahan Postdoctoral Fellowship, Fred Hutchinson Cancer Center
+* 2016-2018 : Mahan Postdoctoral Fellowship, Fred Hutchinson Cancer Center
 : Mentor: Trevor Bedford.
 
 Education
