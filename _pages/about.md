@@ -66,7 +66,7 @@ You can have a look at an analysis of what films my friends and I have shown at 
 One of my proudest achievements in Edinburgh has been the discovery of [Die Hard Dracula](http://www.imdb.com/title/tt0162930/).
 
 ### Data-vis
-As a [user of matplotlib](https://twitter.com/SciPyConf/status/1019954110815227910) I love data visualisation.
+As a [user of matplotlib](https://youtu.be/86LCDRRHaJY?si=YRG-INavPvEWRSnI) I love data visualisation.
 Data are easy to display, but often difficult to display in a way that is both accurate and is interpreted correctly by the reader.
 Aesthetics are also often overlooked when designing figures.
 There might be brave souls out there who can calmly look at magenta comic-sans axis labels, but I'm not one of them.
