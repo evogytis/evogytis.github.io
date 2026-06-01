@@ -7,7 +7,7 @@ date: 2026-03-13
 venue: 'Virus Evolution'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2025.07.15.25331253v1'
 localurl: 'http://evogytis.github.io/files/2025-sarscov2-mink-preprint.pdf'
-citation: '<b>Smičius M</b>, Olendraitė I, Bačelis J, Šimaitis A, <b>Gabrielaitė M</b>, Oude Munnink B B, Sikkema S R, Stankevičius A, Janeliūnas Ž, Bušauskas P, Pumputis E, Pilevičienė S, Mačiulskis P, Masiulis M, Paulauskas V, Ščeponavičienė S, Katėnaitė M, Norvilas R, Raugienė L, Jonikas R, Nasvytienė I, Žemeckienė Ž, Tamušauskaitė K, <b>Norkienė M</b>, Vasiliūnaitė E, Žiogienė D, Timinskas A, Šukys M, Šarauskas M, Juozapaitė D, Naumovas D, Pautienius A, Vitkauskienė A, Ugenskienė R, Gedvilaitė A, Čereškevičius D, Griškevičius L, Koopmans M, Malakauskas A, <b>Dudas G</b>, 2025. &quot;Anthropozoonotic spillovers reveal sustained long-term cryptic circulation of SARS-CoV-2 within and between Lithuanian mink farms&quot;. <i>Virus Evolution</i>: veag014'
+citation: '<b>Smičius M</b>, Olendraitė I, Bačelis J, Šimaitis A, <b>Gabrielaitė M</b>, Oude Munnink B B, Sikkema S R, Stankevičius A, Janeliūnas Ž, Bušauskas P, Pumputis E, Pilevičienė S, Mačiulskis P, Masiulis M, Paulauskas V, Ščeponavičienė S, Katėnaitė M, Norvilas R, Raugienė L, Jonikas R, Nasvytienė I, Žemeckienė Ž, Tamušauskaitė K, <b>Norkienė M</b>, Vasiliūnaitė E, Žiogienė D, Timinskas A, Šukys M, Šarauskas M, Juozapaitė D, Naumovas D, Pautienius A, Vitkauskienė A, Ugenskienė R, Gedvilaitė A, Čereškevičius D, Griškevičius L, Koopmans M, Malakauskas A, <b>Dudas G</b>, 2025. &quot;Anthropozoonotic spillovers reveal sustained long-term cryptic circulation of SARS-CoV-2 within and between Lithuanian mink farms&quot;. <i>Virus Evolution</i> 12(1): veag014'
 doi: 10.1093/ve/veag014
 tags:
   - SARS-CoV-2
