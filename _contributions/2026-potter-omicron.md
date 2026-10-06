@@ -3,8 +3,8 @@ title: "Genomic epidemiology of Omicron (BA.1) as a driver of Pakistan's fifth S
 collection: contributions
 category: manuscripts
 permalink: /contributions/2026-potter-omicron
-date: 2026-10-06
-venue: ''
+date: 2026-10-04
+venue: 'Infection, Genetics and Evolution'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1567134826001632'
 citation: 'Potter BI, Rehman Z, Salman M, Ikram A, Hong SL, Gytis <b>Dudas G</b>, Gill MS, Baele G, Umair M, 2026. &quot;Genomic epidemiology of Omicron (BA.1) as a driver of Pakistan&#39;s fifth SARS-CoV-2 wave&quot;. <i>Infection, Genetics and Evolution</i> 145:106039'
 doi: 10.1016/j.meegid.2026.106039
